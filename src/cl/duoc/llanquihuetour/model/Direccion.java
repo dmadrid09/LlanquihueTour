@@ -1,5 +1,5 @@
 package cl.duoc.llanquihuetour.model;
-
+//Clase direccion para composicion de la clase persona
 public class Direccion {
     private String calle;
     private String numero;

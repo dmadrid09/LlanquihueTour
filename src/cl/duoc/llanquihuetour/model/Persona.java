@@ -1,5 +1,5 @@
 package cl.duoc.llanquihuetour.model;
-
+//Clase Persona, composicion con la clase direccion y la clase cliente va a heredar esta clase perosna
 public class Persona {
     private String nombre;
     private String rut;

@@ -1,0 +1,10 @@
+Daniel Madrid;11.222.333-4;+56912345678;Los Libertadores;7401;Huechuraba;Chileno;Español, ingles, Portugues
+Camila Gonzalez;15.444.555-6;+56987654321;Av. Providencia;1050;Providencia;Chilena;Español
+John Smith;22.111.222-3;+13051234567;Ocean Drive;120;Miami;Estadounidense;Inglés
+Maria Silva;19.999.888-7;+552199999999;Copacabana;500;Rio de Janeiro;Brasileña;Portugués
+Luis Perez;12.333.444-5;+56922223333;San Diego;850;Santiago;Chileno;Español
+Emma Watson;25.555.666-7;+447700900000;Baker Street;221;Londres;Británica;Inglés
+Pedro Pascal;14.777.888-9;+56944445555;Vitacura;3200;Vitacura;Chileno;Español
+Joao Santos;21.444.333-2;+552188888888;Ipanema;300;Rio de Janeiro;Brasileño;Portugués
+Ana Rojas;18.765.432-1;+56911112222;Costanera;100;Puerto Varas;Chilena;Español
+Carlos Mendoza;16.555.222-K;+56988887777;Av. Central;45;Frutillar;Chileno;Español

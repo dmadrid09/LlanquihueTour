@@ -1,5 +1,5 @@
 package cl.duoc.llanquihuetour.model;
-
+// Clase cliente con herencia de la clase persona
 public class Cliente extends Persona{
     private String nacionalidad;
     private String idioma;
