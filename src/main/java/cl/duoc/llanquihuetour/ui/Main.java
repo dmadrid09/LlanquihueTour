@@ -20,7 +20,7 @@ public class Main {
 
     public static void main (String[] args){
         //Ruta para el archivo
-        Path ruta = Path.of("src","resources","clientes.txt");
+        Path ruta = Path.of("src","main","resources","clientes.txt");
         GestorDatos gestor = new GestorDatos();
         //Cargamos la lista
         try {
